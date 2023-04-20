@@ -13,6 +13,8 @@
         <div class="row">
             <div class="col-12">
                 <h1 class="text-center fw-bold">Kukuh Yulion Setia Prakoso</h1>
+                <h3 class="text-center fw-bold">3411201093</h3>
+                <h3 class="text-center fw-bold">DSE-B</h3>
             </div>
         </div>
     </div>
